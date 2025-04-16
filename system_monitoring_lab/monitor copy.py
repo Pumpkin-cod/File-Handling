@@ -4,8 +4,8 @@ import psutil
 from mailjet_rest import Client
 
 # Mailjet credentials
-api_key = "31f1a73cba6668109b37120323477246"
-api_secret = "825dfe9350eb9cb715d2bceae43c794e"
+api_key = "deleted"
+api_secret = "deleted"
 
 #Defining system thresholds
 CPU_THRESHOLD = 2  # Percentage
